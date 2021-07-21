@@ -1,0 +1,10 @@
+local ghx = true
+local ivyX = false
+
+if ghx == true then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GojoKunn/ghX/main/ghX?token=AUY6FB3PKLFJ46O2U7DCGN3A66GSE",true))();
+end
+
+if ivyX == true then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GojoKunn/ivyX/main/Ivy?token=AUY6FB3T26OQ3J5I4R55T7DA66GXW",true))();
+end
